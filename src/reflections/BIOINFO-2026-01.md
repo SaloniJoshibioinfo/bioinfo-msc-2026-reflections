@@ -1,11 +1,24 @@
----
-name: "Nikita Sharma"
-studentId: "BIOINFO-2026-01"
-githubUsername: "nikita-sharma"
-favoriteTopic: "DNA Sequence Matching with grep"
-quote: "Linux looked scary at first, but pipes feel like running an actual wet lab protocol!"
----
+\# Course Reflections: Programming Languages \& Databases (103)
 
-### My Unit 1-3 Reflection
+\*\*Student Name:\*\* Pranjal Anerao
 
-Learning how to navigate directories using `cd` and `ls` made me realize how a computer actually stores genomic files. Writing my first shell script to automate sequence counting showed me how much time bioinformatics can save compared to manual wet-lab work.
+\*\*Student Roll No:\*\* 01
+
+\*\*Specialization:\*\* M.Sc. Bioinformatics
+
+
+
+\### Key Takeaways
+
+1\. \*\*Linux OS:\*\* Understood virtual filesystem, pipeline streaming with |, and automated file search/permissions (chmod, grep, find).
+
+2\. \*\*C++ Programming:\*\* Learned data types, modular design using user-defined functions, array pointer arithmetic, and structs for biological records.
+
+3\. \*\*Version Control (Git/GitHub):\*\* Mastered distributed branching, commit histories, resolving merge conflicts, and team collaboration via Pull Requests.
+
+
+
+\### What I Learned
+
+This course gave me hands-on experience in Linux, C++ for bioinformatics, and collaborative coding with GitHub workflow.
+
